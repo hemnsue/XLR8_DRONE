@@ -1,0 +1,1 @@
+target_location=LocationGlobalRelative(go_to_location[0],go_to_location[1],go_to_location[2])
