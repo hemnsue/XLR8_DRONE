@@ -1,0 +1,4 @@
+Questions i have----
+1)How to manipulate the height of the drone , i mean for going down in guided mode, all i see is the code for going up and going down, is it like using global_relative_frame.alt if we set simple take off in negative values it will go down or what is the thing here because i have to manipulate it according to my will
+2)The global_relative_frame gives the answer for what? Is it like it's minuses my data from my base location or home location or something else,,,,,, 
+3)vehicle.homelocation changes continuously or is it like once it's loaded in , it's saved and it won't change
