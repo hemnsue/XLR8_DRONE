@@ -8,5 +8,6 @@ The drone is trained to precisely land and deliver the medical supplies then aga
 ![Screenshot 2024-04-09 195433](https://github.com/hemnsue/XLR8_DRONE/assets/73696432/58669450-5f1f-47fe-b414-ea2de7f979f2)
 # Main Controller Design
 ![Screenshot 2024-04-09 195331](https://github.com/hemnsue/XLR8_DRONE/assets/73696432/060f046d-4924-472b-8e1c-f051eb659b32)
-
-***** WORK IN PROGRESS *****
+# Final Drone Built
+![WhatsApp Image 2024-12-15 at 16 48 15_b890c71b](https://github.com/user-attachments/assets/91d78c79-1667-48b1-8ea0-48cde4becfc3)
+![WhatsApp Image 2024-12-15 at 16 51 07_84b8ebff](https://github.com/user-attachments/assets/6d59bbe7-d9c1-4428-95ed-08b2b941915e)
