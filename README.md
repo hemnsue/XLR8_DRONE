@@ -33,3 +33,5 @@ The total weight estimation :
 * Landing Gear = 40*2 = 80g
 * TOTAL WITHOUT PAYLOAD = 1.71kg
 * TOTAL WEIGHT with PAYLOAD = 1.77kg 
+# Working of the intelligent autonomus mission explained in ppt 
+TEAM XLR8.pptx
